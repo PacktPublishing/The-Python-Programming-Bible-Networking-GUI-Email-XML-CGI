@@ -1,0 +1,25 @@
+Python Homepage - https://www.w3schools.com/python/
+
+W3Schools - https://www.codecademy.com/learn/learn-python
+
+codecademy - https://github.com/python
+
+Github Python - https://github.com/python/cpython
+
+cpython - https://www.datacamp.com/tracks/python-programming
+
+DataCamp - https://www.programiz.com/python-programming
+
+Programiz - https://pythonprogramming.net/beginner-python-programming-tutorials/
+
+PythonProgramming - https://docs.python-guide.org/
+
+Hitchhiker's Gudie - https://docs.python.org/3/tutorial/
+
+Python Docs - https://devguide.python.org/
+
+Python Developers Guide - https://github.com/realpython/python-guide
+
+Python Guide (GitHub) - https://github.com/vinta/awesome-python#readme
+
+Awesome Guide - https://github.com/vinta/awesome-python#readme
